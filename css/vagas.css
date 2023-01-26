@@ -1,0 +1,51 @@
+.vagas__caixa {
+    text-align: center;
+}
+
+.vagas__caixa--titulo {
+    font-size: 14px;
+    color: var(--marsala);
+}
+
+.vagas__caixa--subtitulo {
+    font-weight: 600;
+    font-size: 36px;
+    padding: 1em 0;
+}
+
+.vagas__caixa--texto {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    padding-bottom: 3em;
+}
+
+/*VAGAS SETOR*/
+
+.vagas__setor {
+    display: flex;
+    flex-direction: column;
+    padding: 3em 20em 0;
+}
+
+.vagas__setor--titulo {
+    font-size: 20px;
+    padding-bottom: 2.5em;
+}
+
+.vagas__secao {
+    padding-bottom: 2em;
+    padding-left: 3em;
+}
+
+.vagas__secao--titulo {
+    font-size: 18px;
+    padding-bottom: 2.5em;
+}
+
+.vagas__secao--texto {
+    display: inline-block;
+    color: var(--cinza);
+    padding-right: 2em;
+}
+

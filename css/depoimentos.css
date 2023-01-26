@@ -1,0 +1,27 @@
+.depoimentos {
+    text-align: center;
+    padding: 0 7em;
+}
+
+.depoimentos__titulo {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--marsala);
+    padding-bottom: 2em;
+}
+
+.depoimentos__texto {
+    font-weight: 500;
+    font-size: 36px;
+    padding-bottom: 1.5em;
+}
+
+.depoimentos__nome {
+    padding: .5em 0;
+}
+
+.depoimentos__ocupacao {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0 0 20em 0;
+}

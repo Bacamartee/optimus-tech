@@ -1,0 +1,45 @@
+.formulario {
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+.formulario__titulo {
+    font-weight: 600;
+    font-size: 36px;
+    padding-bottom: .75em;
+}
+
+.formulario__texto {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    padding-bottom: 1em;
+}
+
+.formulario__email {
+    width: 20%;
+    font-weight: 400;
+    padding: 1em;
+    border-radius: 10px;
+    border: 1px solid var(--cinza);
+}
+
+.formulario__email::placeholder {
+    font-family: "Inter";
+    font-weight: 400;
+}
+
+.formulario__botao {
+    background: var(--marsala);
+    border: 1px solid var(--marsala);
+    padding: 1em;
+    border-radius: 10px;
+    color: var(--branco);
+    margin-left: 1em;
+}
+
+.rodape {
+    font-weight: 400;
+    color: var(--cinza-claro);
+    padding: 1em 0;
+}
